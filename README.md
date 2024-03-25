@@ -1,16 +1,22 @@
-### Hi there 👋
+# Crazy8Games
 
-<!--
-**Crazy8Games/Crazy8Games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to Crazy8Games 👋, where we code up exciting web games, regular games, and websites! Here you'll find an overview of our projects, how to get started, and where to find more information.
 
-Here are some ideas to get you started:
+## About Crazy8Games
+Crazy8Games is a creative game development and web design company dedicated to crafting engaging and entertaining experiences. From addictive web-based games to fully-fledged websites, we bring ideas to life through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Our Projects
+### Web Games
+COMING SOON
+
+### Regular Games
+COMING SOON
+
+### Websites
+COMING SOON
+
+## Getting Started
+If you're interested in our projects or want to collaborate, here's how you can get started:
+
+1. emailing **sazeldolphin@gmail.com**
+2. or checking out anyof my social links in my bio
