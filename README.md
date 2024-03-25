@@ -13,7 +13,7 @@ COMING SOON
 COMING SOON
 
 ### Websites
-COMING SOON
+Portfolio: **https://crazy8games.github.io/my-crazy8g-portfolio/**
 
 ## Getting Started
 If you're interested in our projects or want to collaborate, here's how you can get started:
