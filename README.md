@@ -18,5 +18,6 @@ Portfolio: **https://crazy8games.github.io/my-crazy8g-portfolio/**
 ## Getting Started
 If you're interested in our projects or want to collaborate, here's how you can get started:
 
-1. emailing **sazeldolphin@gmail.com**
-2. or checking out anyof my social links in my bio
+1. Chat with my service but https://chatbot.com/stories/6606449f8c7f970007e011a3
+2. email **skully2198@gmail.com** or **sazeldolphin@gmail.com**
+3. or checking out anyof my social links in my bio
