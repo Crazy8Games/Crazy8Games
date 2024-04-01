@@ -7,10 +7,21 @@ Crazy8Games is a creative game development and web design company dedicated to c
 
 ## Our Projects
 ### Web Games
-COMING SOON
+Supernatural: The Hunt Begins
+More soon
 
 ### Regular Games
 COMING SOON
+
+### Web Apps
+Groovewave(COMING SOON)
+DDV-Companion
+CodeTogether
+More soon
+
+### Side things
+Byte#
+More Soon
 
 ### Websites
 Portfolio: **https://crazy8games.github.io/my-crazy8g-portfolio/**
