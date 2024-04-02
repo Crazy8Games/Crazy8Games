@@ -7,7 +7,6 @@ Crazy8Games is a creative game development and web design company dedicated to c
 
 ## Our Projects
 ### Web Games
-Supernatural: The Hunt Begins
 ChronoQuest(COMING SOON)
 More soon
 
